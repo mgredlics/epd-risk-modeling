@@ -22,12 +22,12 @@ An end-to-end credit risk modeling pipeline built in R using `tidymodels` and `g
 
 ## Model Performance
 
-| Metric | Training Split | Testing Split | Target Benchmark |
+| Metric | Training Split | Testing Split |
 | :--- | :--- | :--- | :--- |
-| **ROC AUC** | 0.88 | 0.88 | ~0.85 |
-| **KS Statistic** | 0.60 | 0.59 | > 0.50 |
-| **Brier Score** | 0.039 | 0.039 | Well-Calibrated |
-| **Interval Coverage Rate** | — | 82.7% | 80.0% Expected |
+| **ROC AUC** | 0.88 | 0.88 |
+| **KS Statistic** | 0.60 | 0.59 |
+| **Brier Score** | 0.039 | 0.039 | 
+| **Interval Coverage Rate** | — | 82.7% |
 
 ---
 
